@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>hojun</title>
+  <title>魚閣</title>
   
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="/"/>
+  <link href="https://liuziqi77.github.io/"/>
   <updated>2020-07-17T09:10:30.274Z</updated>
-  <id>/</id>
+  <id>https://liuziqi77.github.io/</id>
   
   <author>
-    <name>hojun</name>
+    <name>LZQ</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>test</title>
-    <link href="/2020/07/17/test/"/>
-    <id>/2020/07/17/test/</id>
+    <link href="https://liuziqi77.github.io/2020/07/17/test/"/>
+    <id>https://liuziqi77.github.io/2020/07/17/test/</id>
     <published>2020-07-17T09:02:39.000Z</published>
     <updated>2020-07-17T09:10:30.274Z</updated>
     
@@ -29,19 +29,19 @@
     
     </summary>
     
-      <category term="技术" scheme="/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="技术" scheme="https://liuziqi77.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-      <category term="web" scheme="/tags/web/"/>
+      <category term="web" scheme="https://liuziqi77.github.io/tags/web/"/>
     
-      <category term="悦读" scheme="/tags/%E6%82%A6%E8%AF%BB/"/>
+      <category term="悦读" scheme="https://liuziqi77.github.io/tags/%E6%82%A6%E8%AF%BB/"/>
     
   </entry>
   
   <entry>
     <title>Hexo-Theme-Sakura</title>
-    <link href="/2018/12/12/Hexo-Theme-Sakura/"/>
-    <id>/2018/12/12/Hexo-Theme-Sakura/</id>
+    <link href="https://liuziqi77.github.io/2018/12/12/Hexo-Theme-Sakura/"/>
+    <id>https://liuziqi77.github.io/2018/12/12/Hexo-Theme-Sakura/</id>
     <published>2018-12-12T14:16:01.000Z</published>
     <updated>2020-07-17T08:43:19.671Z</updated>
     
@@ -51,12 +51,12 @@
     
     </summary>
     
-      <category term="技术" scheme="/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="技术" scheme="https://liuziqi77.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-      <category term="web" scheme="/tags/web/"/>
+      <category term="web" scheme="https://liuziqi77.github.io/tags/web/"/>
     
-      <category term="悦读" scheme="/tags/%E6%82%A6%E8%AF%BB/"/>
+      <category term="悦读" scheme="https://liuziqi77.github.io/tags/%E6%82%A6%E8%AF%BB/"/>
     
   </entry>
   
