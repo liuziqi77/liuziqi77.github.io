@@ -85,7 +85,7 @@ function bot_ui_ini() {
                             }).then(function () {
                                 botui.message.add({
                                     delay: 1800,
-                                    content: "嘘！不能再说了🤫"
+                                    content: "嘘！不能再说了🤫，我先藏起来了~"
                                 })
                                 // .then(function () {
                                 //     botui.action.button({
