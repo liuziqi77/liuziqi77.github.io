@@ -1894,7 +1894,7 @@ i.iconfont.hotpost {
 }
 /*手机文字排列*/
 .post-content-wrap,.post-list-thumb-left .post-content-wrap {
-    text-align:right;
+    text-align:center;
     margin:0;
     padding:20px;
     float:none;
