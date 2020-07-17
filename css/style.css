@@ -1892,8 +1892,9 @@ i.iconfont.hotpost {
     width:100%;
     left:0
 }
+/*手机文字排列*/
 .post-content-wrap,.post-list-thumb-left .post-content-wrap {
-    text-align:center;
+    text-align:right;
     margin:0;
     padding:20px;
     float:none;
