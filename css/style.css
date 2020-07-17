@@ -1862,17 +1862,10 @@ i.iconfont.hotpost {
     height:67.5px;
     overflow:hidden
 }
-/*.post-list-thumb-left .post-content-wrap {
+.post-list-thumb-left .post-content-wrap {
     float:left;
     padding-left:30px;
     padding-right:0;
-    text-align:right;
-    margin:20px 10px 10px 0
-}*/
-.post-list-thumb-left .post-content-wrap {
-    float:right;
-    padding-left:0;
-    padding-right:30px;
     text-align:right;
     margin:20px 10px 10px 0
 }
@@ -1900,7 +1893,7 @@ i.iconfont.hotpost {
     left:0
 }
 .post-content-wrap,.post-list-thumb-left .post-content-wrap {
-    text-align:left;
+    text-align:center;
     margin:0;
     padding:20px;
     float:none;
