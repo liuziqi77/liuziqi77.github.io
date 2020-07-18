@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://liuziqi77.github.io/"/>
-  <updated>2020-07-17T09:10:30.274Z</updated>
+  <updated>2020-07-18T07:58:28.129Z</updated>
   <id>https://liuziqi77.github.io/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>task1</title>
+    <link href="https://liuziqi77.github.io/2020/07/18/task1/"/>
+    <id>https://liuziqi77.github.io/2020/07/18/task1/</id>
+    <published>2020-07-18T07:52:37.000Z</published>
+    <updated>2020-07-18T07:58:28.129Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;首页要做的修改：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;list-style: none&quot;&gt;&lt;input type=&quot;checkbox&quot;&gt; 修改主题颜色（樱花色 #FF82AB）&lt;/li&gt;
+&lt;li style=&quot;list-style: none&quot;&gt;&lt;input
+        
+      
+    
+    </summary>
+    
+      <category term="技术" scheme="https://liuziqi77.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>test</title>
